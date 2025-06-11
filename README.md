@@ -1,2 +1,2 @@
-# AI-Image-Generator
-DALL·E Clone
+# AI Image Generator
+This project features an AI image generator similar to DALL·E, capable of creating realistic images and art from natural language descriptions. Built with HTML, CSS, and JavaScript, it utilizes the Hugging Face API for seamless image generation.
